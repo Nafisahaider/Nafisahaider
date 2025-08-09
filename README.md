@@ -1,3 +1,4 @@
+![logo](https://github.com/Nafisahaider/Nafisahaider/blob/main/Blue%20and%20Green%20Spring%20Illustration%20Thank%20You%20for%20Watching%20Video.gif)
 <h1 align="center">Hi 👋, I'm Nafisa Haider</h1>
 <h3 align="center">Passionate about building intelligent systems that solve real-world problems</h3>
 
